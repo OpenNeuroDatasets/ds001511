@@ -8,7 +8,7 @@
     ],
     "Acknowledgements": "",
     "HowToAcknowledge": "",
-    "Funding": "",
+    "Funding": [""],
     "ReferencesAndLinks": [],
     "DatasetDOI": "10.18112/openneuro.ds001511.v1.0.4",
     "BIDSVersion": "1.1.0"
